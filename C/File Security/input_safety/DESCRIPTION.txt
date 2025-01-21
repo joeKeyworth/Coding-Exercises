@@ -1,0 +1,2 @@
+This exercise is to demonstrate a safe user input in C as to avoid a buffer overflow.
+
