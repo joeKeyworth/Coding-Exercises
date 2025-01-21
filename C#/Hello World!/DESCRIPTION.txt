@@ -1,1 +1,0 @@
-Simple hello world script to ensure coding environment is set up correctly
