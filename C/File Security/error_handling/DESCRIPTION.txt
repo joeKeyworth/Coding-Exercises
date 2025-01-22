@@ -1,0 +1,1 @@
+Exercise that demonstrates error handling in C
