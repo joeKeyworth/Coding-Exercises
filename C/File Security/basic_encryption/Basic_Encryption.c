@@ -41,7 +41,7 @@ int main(){
         unenname[i] = enc[i] / segKey;
     }
     unenname[MAX_LENGTH] = '\0';
-    printf("%s", unenname);  
+    printf("%s\n", unenname);  
 
 
 
